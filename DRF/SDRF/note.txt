@@ -1,0 +1,17 @@
+##############################
+hello all here i have do  a code for REST API
+
+I will show here from basic to advace use of rest framework using serializers
+
+I have create third party app also
+Myapp and Myapp1 for our api testing
+
+This app will be build python
+
+what we need to cde for third part simple app i will do here
+
+In this code some formating are updown
+
+Just refer google for whats come first and what next
+
+If any one wants contribute your self then its open
